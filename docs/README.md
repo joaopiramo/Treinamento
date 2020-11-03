@@ -4,7 +4,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Our boilerplate theme to create stores in the VTEX IO platform.
 
-## Preview
+## Preview 
 ![store-theme-default](https://user-images.githubusercontent.com/1354492/63937047-e8d81c80-ca37-11e9-86fc-61e88847bbfb.png)
 
 ## Tutorial
